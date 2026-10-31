@@ -1,0 +1,99 @@
+Start testing: Oct 30 23:49 Новосибирское стандартное время
+----------------------------------------------------------
+1/4 Testing: HypoBasicTest.IntegerArguments
+1/4 Test: HypoBasicTest.IntegerArguments
+Command: "D:/NSU/OOP/hw_05/build/tests/hypo_tests.exe" "--gtest_filter=HypoBasicTest.IntegerArguments" "--gtest_also_run_disabled_tests"
+Directory: D:/NSU/OOP/hw_05/build/tests
+"HypoBasicTest.IntegerArguments" start time: Oct 30 23:49 Новосибирское стандартное время
+Output:
+----------------------------------------------------------
+Running main() from D:/NSU/OOP/hw_05/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HypoBasicTest.IntegerArguments
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HypoBasicTest
+[ RUN      ] HypoBasicTest.IntegerArguments
+[       OK ] HypoBasicTest.IntegerArguments (0 ms)
+[----------] 1 test from HypoBasicTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"HypoBasicTest.IntegerArguments" end time: Oct 30 23:49 Новосибирское стандартное время
+"HypoBasicTest.IntegerArguments" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: HypoBasicTest.DoubleArguments
+2/4 Test: HypoBasicTest.DoubleArguments
+Command: "D:/NSU/OOP/hw_05/build/tests/hypo_tests.exe" "--gtest_filter=HypoBasicTest.DoubleArguments" "--gtest_also_run_disabled_tests"
+Directory: D:/NSU/OOP/hw_05/build/tests
+"HypoBasicTest.DoubleArguments" start time: Oct 30 23:49 Новосибирское стандартное время
+Output:
+----------------------------------------------------------
+Running main() from D:/NSU/OOP/hw_05/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HypoBasicTest.DoubleArguments
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HypoBasicTest
+[ RUN      ] HypoBasicTest.DoubleArguments
+[       OK ] HypoBasicTest.DoubleArguments (0 ms)
+[----------] 1 test from HypoBasicTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"HypoBasicTest.DoubleArguments" end time: Oct 30 23:49 Новосибирское стандартное время
+"HypoBasicTest.DoubleArguments" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: HypoRandomTest.RangeCheck
+3/4 Test: HypoRandomTest.RangeCheck
+Command: "D:/NSU/OOP/hw_05/build/tests/hypo_tests.exe" "--gtest_filter=HypoRandomTest.RangeCheck" "--gtest_also_run_disabled_tests"
+Directory: D:/NSU/OOP/hw_05/build/tests
+"HypoRandomTest.RangeCheck" start time: Oct 30 23:49 Новосибирское стандартное время
+Output:
+----------------------------------------------------------
+Running main() from D:/NSU/OOP/hw_05/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HypoRandomTest.RangeCheck
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HypoRandomTest
+[ RUN      ] HypoRandomTest.RangeCheck
+[       OK ] HypoRandomTest.RangeCheck (2 ms)
+[----------] 1 test from HypoRandomTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"HypoRandomTest.RangeCheck" end time: Oct 30 23:49 Новосибирское стандартное время
+"HypoRandomTest.RangeCheck" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: ExpectVsAssertDemo.FailingDemonstration
+4/4 Test: ExpectVsAssertDemo.FailingDemonstration
+Command: ""
+Directory: D:/NSU/OOP/hw_05/build/tests
+"ExpectVsAssertDemo.FailingDemonstration" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ExpectVsAssertDemo.FailingDemonstration" end time: Oct 30 23:49 Новосибирское стандартное время
+"ExpectVsAssertDemo.FailingDemonstration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 30 23:49 Новосибирское стандартное время

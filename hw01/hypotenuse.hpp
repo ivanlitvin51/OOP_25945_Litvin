@@ -1,0 +1,1 @@
+int hypotenuse(int x, int y);

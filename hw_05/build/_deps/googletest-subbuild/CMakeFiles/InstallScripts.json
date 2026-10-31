@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/NSU/OOP/hw_05/build/_deps/googletest-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

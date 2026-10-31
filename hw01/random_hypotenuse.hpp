@@ -1,0 +1,1 @@
+int random_hypotenuse(int x, int y);

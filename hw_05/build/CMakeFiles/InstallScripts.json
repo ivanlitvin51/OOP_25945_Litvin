@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/NSU/OOP/hw_05/build/cmake_install.cmake",
+		"D:/NSU/OOP/hw_05/build/hypo_lib/cmake_install.cmake",
+		"D:/NSU/OOP/hw_05/build/tests/cmake_install.cmake",
+		"D:/NSU/OOP/hw_05/build/_deps/googletest-build/cmake_install.cmake",
+		"D:/NSU/OOP/hw_05/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"D:/NSU/OOP/hw_05/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

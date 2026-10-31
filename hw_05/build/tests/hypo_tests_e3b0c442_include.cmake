@@ -1,0 +1,5 @@
+if(EXISTS "D:/NSU/OOP/hw_05/build/tests/hypo_tests_e3b0c442_tests.cmake")
+  include("D:/NSU/OOP/hw_05/build/tests/hypo_tests_e3b0c442_tests.cmake")
+else()
+  add_test(hypo_tests_NOT_BUILT hypo_tests_NOT_BUILT)
+endif()

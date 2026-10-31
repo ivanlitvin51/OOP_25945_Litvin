@@ -1,0 +1,44 @@
+{
+  "tests": 4,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "HypoBasicTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "IntegerArguments",
+          "file": "D:\/NSU\/OOP\/hw_05\/tests\/test_hypo.cpp",
+          "line": 11
+        },
+        {
+          "name": "DoubleArguments",
+          "file": "D:\/NSU\/OOP\/hw_05\/tests\/test_hypo.cpp",
+          "line": 26
+        }
+      ]
+    },
+    {
+      "name": "HypoRandomTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "RangeCheck",
+          "file": "D:\/NSU\/OOP\/hw_05\/tests\/test_hypo.cpp",
+          "line": 40
+        }
+      ]
+    },
+    {
+      "name": "ExpectVsAssertDemo",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "DISABLED_FailingDemonstration",
+          "file": "D:\/NSU\/OOP\/hw_05\/tests\/test_hypo.cpp",
+          "line": 83
+        }
+      ]
+    }
+  ]
+}

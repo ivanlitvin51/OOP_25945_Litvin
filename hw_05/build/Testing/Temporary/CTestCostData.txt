@@ -1,0 +1,5 @@
+HypoBasicTest.IntegerArguments 1 0.0597081
+HypoBasicTest.DoubleArguments 1 0.0598035
+HypoRandomTest.RangeCheck 1 0.0617733
+ExpectVsAssertDemo.FailingDemonstration 0 0
+---
