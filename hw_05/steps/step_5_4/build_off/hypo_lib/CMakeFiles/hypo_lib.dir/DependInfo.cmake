@@ -1,0 +1,24 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/ivanlitvin/NSU/OOP/hw_05/steps/step_5_4/hypo_lib/hypo.cpp" "hypo_lib/CMakeFiles/hypo_lib.dir/hypo.cpp.o" "gcc" "hypo_lib/CMakeFiles/hypo_lib.dir/hypo.cpp.o.d"
+  "/Users/ivanlitvin/NSU/OOP/hw_05/steps/step_5_4/hypo_lib/hypo_mod.cpp" "hypo_lib/CMakeFiles/hypo_lib.dir/hypo_mod.cpp.o" "gcc" "hypo_lib/CMakeFiles/hypo_lib.dir/hypo_mod.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

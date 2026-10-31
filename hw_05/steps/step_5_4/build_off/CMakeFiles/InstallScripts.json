@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ivanlitvin/NSU/OOP/hw_05/steps/step_5_4/build_off/cmake_install.cmake",
+		"/Users/ivanlitvin/NSU/OOP/hw_05/steps/step_5_4/build_off/hypo_lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

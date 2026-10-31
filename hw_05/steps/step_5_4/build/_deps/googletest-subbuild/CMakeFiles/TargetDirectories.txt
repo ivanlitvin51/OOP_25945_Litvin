@@ -1,0 +1,3 @@
+/Users/ivanlitvin/NSU/OOP/hw_05/steps/step_5_4/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/Users/ivanlitvin/NSU/OOP/hw_05/steps/step_5_4/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/Users/ivanlitvin/NSU/OOP/hw_05/steps/step_5_4/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

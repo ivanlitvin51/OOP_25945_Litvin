@@ -1,0 +1,44 @@
+{
+  "tests": 4,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "HypoBasicTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "IntValues",
+          "file": "\/Users\/ivanlitvin\/NSU\/OOP\/hw_05\/steps\/step_5_3\/tests\/test_hypo.cpp",
+          "line": 6
+        }
+      ]
+    },
+    {
+      "name": "HypoRandomTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "RangeCheck",
+          "file": "\/Users\/ivanlitvin\/NSU\/OOP\/hw_05\/steps\/step_5_3\/tests\/test_hypo.cpp",
+          "line": 12
+        }
+      ]
+    },
+    {
+      "name": "ExpectVsAssert",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "ExpectFailsAndContinues",
+          "file": "\/Users\/ivanlitvin\/NSU\/OOP\/hw_05\/steps\/step_5_3\/tests\/test_hypo.cpp",
+          "line": 23
+        },
+        {
+          "name": "AssertFailsAndStops",
+          "file": "\/Users\/ivanlitvin\/NSU\/OOP\/hw_05\/steps\/step_5_3\/tests\/test_hypo.cpp",
+          "line": 29
+        }
+      ]
+    }
+  ]
+}
